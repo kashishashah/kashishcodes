@@ -24,7 +24,8 @@ navlinks:
 
 # Build settings
 paginate: 3
-baseurl: "/israh-jekyll-theme" # the subpath of your site, e.g. /blog/
+domain: kashishashah.github.io
+baseurl: "/kashishcodes/" # the subpath of your site, e.g. /blog/
 #baseurl: ""
 url: "https://kashishashah.github.io" # the base hostname & protocol for your site
 highlights: pygments

@@ -1,6 +1,6 @@
-title: Israh Theme
-email: your@email.here
-greeting: Israh Theme
+title: KashishCodes
+email: kashisha@usc.edu
+greeting: KashishCodes
 description: > # this means to ignore newlines until another tag
     Israh is a responsive Jekyll theme with warm greys, a single column layout, and not much else.
 favicon: favicon.png
@@ -13,13 +13,13 @@ navlinks:
         text: The Theme
         url: /theme
         internal: True
-    -
-        text: Github
-        url: https://www.github.com/ezrasavard
-        internal: False
+    # -
+    #     text: Github
+    #     url: https://www.github.com/ezrasavard
+    #     internal: False
     -
         text: LinkedIn
-        url: https://www.linkedin.com/in/ezrasavard
+        url: https://www.linkedin.com/in/kashish-shah-usc/
         internal: False
 
 # Build settings

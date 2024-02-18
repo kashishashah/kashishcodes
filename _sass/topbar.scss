@@ -1,6 +1,6 @@
 .topbar {
     max-width: $column_width;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-bottom: 60px;
     margin-left: auto;
     margin-right: auto;
@@ -10,7 +10,7 @@
       padding-right: $column-padding;
     }
     .topbar-contents {
-      padding-top: 24px;
+      padding-top: 50px;
       padding-left: 0px;
       padding-right: 0px;
       padding-bottom: 24px;
@@ -22,7 +22,7 @@
       }
       color: $dark-color;
       font-family: $page-title-font;
-      font-size: 300px;
+      font-size: 120px;
       line-height: 56px;
     }
     nav {
